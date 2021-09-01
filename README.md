@@ -1,1 +1,0 @@
-# mini-private-key-format
